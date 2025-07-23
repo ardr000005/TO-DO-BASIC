@@ -41,7 +41,6 @@ You can run this app locally with no setup needed.
 
 ```bash
 git clone https://github.com/ardr000005/TO-DO-BASIC.git
-cd TO-DO-BASIC
 ```
 
 ### 2. Open `index.html`
